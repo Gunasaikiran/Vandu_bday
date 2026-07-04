@@ -19,7 +19,7 @@ const pageMusic = {
   "memories.html": "assets/Music/Memories.mp3",
   "reasons.html": "assets/Music/Reasons.mp3",
   "letter.html": "assets/Music/Letter_bgm.mp3",
-  "cake.html": "assets/music/cake.mp3",
+  "cake.html": "assets/music/Cake.mp3",
   "final.html": "assets/Music/Final.mp3"
 };
 

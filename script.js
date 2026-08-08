@@ -67,7 +67,7 @@ musicBtn?.addEventListener("click", () => {
 
 });
 
-const birthdayDate = new Date('2026-07-13T00:00:00').getTime();
+const birthdayDate = new Date('2027-07-08T00:00:00').getTime();
 function updateCountdown() {
   const countdown = $('#countdown');
   if (!countdown) return;
